@@ -6,7 +6,7 @@ Class Mis_funciones {
   *   Función que comprueba la validez de un DNI introducido
   *
   *   @author Juan Pedro Ruiz Rabadán
-  *   @version 1.0
+  *   @version 1.1
   *
   *   @internal Etiqueta sólo para desarrolladores
   *
